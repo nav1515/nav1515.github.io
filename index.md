@@ -7,3 +7,6 @@
 - The model is the culmination of many ideas developed by multiple researchers over the years. It is based on the original paper: "Rethinking the Inception Architecture for Computer Vision" by Szegedy, et. al.
 - The model itself is made up of symmetric and asymmetric building blocks, including convolutions, average pooling, max pooling, concats, dropouts, and fully connected layers. Batchnorm is used extensively throughout the model and applied to activation inputs. Loss is computed via Softmax.
 - A high-level diagram of the model is shown below:
+
+
+![](/images/istockphoto-1157569047-170667a.jpg)
